@@ -248,7 +248,7 @@ void Task_3()
     {
         for (int j = 0; j < CHESS_SIZE; j++)
         {
-            printf("%d ", chess[i][j]);
+            printf("%5d ", chess[i][j]);
         }
         printf("\n");
     }
